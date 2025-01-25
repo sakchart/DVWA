@@ -699,3 +699,4 @@ The app has vulnerabilities, it is deliberate. Most are the well documented ones
 Project Home: <https://github.com/digininja/DVWA>
 
 _Created by the DVWA team_
+Update by Fusion
